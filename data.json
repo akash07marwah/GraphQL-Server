@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Akash Marwah",
+      "email": "akash@gmail.com",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Anup Jalota",
+      "email": "anup@gmail.com",
+      "age": 55
+    },
+    {
+      "name": "Arjun Yadav",
+      "email": "asy001nov@gmail.com",
+      "age": 19,
+      "id": 5
+    }
+  ]
+}
